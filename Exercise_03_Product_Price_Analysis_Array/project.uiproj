@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_03_Product_Price_Analysis_Array",
+  "ProjectType": "Process",
+  "Description": "Exercise 3: Identify highest, lowest prices and calculate total cost using an Array and For Each.",
+  "MainFile": "Main.xaml"
+}

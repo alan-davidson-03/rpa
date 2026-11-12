@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_08_Password_Validation_Do_While",
+  "ProjectType": "Process",
+  "Description": "Exercise 8: Validate password with at most three attempts using Do While.",
+  "MainFile": "Main.xaml"
+}

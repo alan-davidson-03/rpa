@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_06_Student_Attendance_Eligibility_Flowchart",
+  "ProjectType": "Process",
+  "Description": "Exercise 6: Check examination eligibility with 75% minimum attendance using Flowchart.",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_07_Number_Processing_While_Loop",
+  "ProjectType": "Process",
+  "Description": "Exercise 7: Display numbers 1 to 20 and sum even numbers using a While loop.",
+  "MainFile": "Main.xaml"
+}

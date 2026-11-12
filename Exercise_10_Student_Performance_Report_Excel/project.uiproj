@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_10_Student_Performance_Report_Excel",
+  "ProjectType": "Process",
+  "Description": "Exercise 10: Read Excel marks, grade using Switch, and generate Excel report with summary.",
+  "MainFile": "Main.xaml"
+}

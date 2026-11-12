@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_09_Student_Result_Analysis_DataTable",
+  "ProjectType": "Process",
+  "Description": "Exercise 9: Classify student results and count pass/fail using DataTable and For Each Row.",
+  "MainFile": "Main.xaml"
+}

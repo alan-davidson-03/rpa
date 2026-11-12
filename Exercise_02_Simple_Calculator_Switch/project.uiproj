@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_02_Simple_Calculator_Switch",
+  "ProjectType": "Process",
+  "Description": "Exercise 2: Perform arithmetic operations (+, -, *, /) using Switch in Flowchart.",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_04_Student_Name_Management_List",
+  "ProjectType": "Process",
+  "Description": "Exercise 4: Add, remove, and display student names using a List collection.",
+  "MainFile": "Main.xaml"
+}

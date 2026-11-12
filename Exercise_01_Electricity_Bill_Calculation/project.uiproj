@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_01_Electricity_Bill_Calculation",
+  "ProjectType": "Process",
+  "Description": "Exercise 1: Electricity Bill Calculation based on units consumed using nested If activities.",
+  "MainFile": "Main.xaml"
+}

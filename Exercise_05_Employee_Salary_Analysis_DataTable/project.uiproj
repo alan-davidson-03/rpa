@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_05_Employee_Salary_Analysis_DataTable",
+  "ProjectType": "Process",
+  "Description": "Exercise 5: Identify employees earning more than Rs. 30,000 using DataTable and For Each Row.",
+  "MainFile": "Main.xaml"
+}
